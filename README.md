@@ -1,2 +1,5 @@
-# economia
-Repositório para publicar minhas novas descobertas em como manipular dados macroeconômicos usando programação
+# Projetos de Economia
+Prazer, me chamo Victor Hugo e sou graduando do curso de Ciências Econômicas.
+Este repositório tem como objetivo realizar minhas pesquisas na área econômica e deixar públicas essas informações para consulta e divulgação futura.
+
+
